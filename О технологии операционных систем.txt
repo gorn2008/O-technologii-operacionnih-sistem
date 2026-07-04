@@ -19,7 +19,7 @@ https://auto.ru/catalog/cars/mercedes/g_klasse_amg_6x6/
 A design scheme for creating an Apple OS in Java (Microsoft's Windows is similar, but in C):
 
 1. Note that all computer screens have a predefined set of resolutions (e.g., 640x480 px, 800x600 px, 1920x1080 px),
-specified, as you can see, by integers. This should be taken into account when considering point 3 of the proposed scheme.
+defined, as you can see, by integers. This should be taken into account when considering point 3 of the proposed scheme.
 2. Create a program section that operates similarly to a pump for creating an artificial wave.
 3. Create a program section that can change the pump pressure from 2 to that required to inflate a bicycle tire.
 The spokes of a bicycle wheel are constants, using integer data types (byte, short, int, long) when creating them. You need to charge the battery for the bicycle pump, and then inflate the front tire
